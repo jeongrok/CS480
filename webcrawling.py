@@ -70,8 +70,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-def isBalanced(self, root):
-
-    def dfs(node)
